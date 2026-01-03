@@ -386,21 +386,21 @@ const Portfolio = () => {
       id: 1,
       title: "Delryu Services",
       category: "Company Profile & Booking",
-      image: "./public/delryu.png", // Menggunakan file dari folder public
+      image: "/delryu.png", // Menggunakan file dari folder public
       link: "https://delryu.vercel.app/" 
     },
     {
       id: 2,
       title: "Vista Travel",
       category: "Landing Page",
-      image: "./public/vista.png", // Menggunakan file dari folder public
+      image: "/vista.png", // Menggunakan file dari folder public
       link: "https://vista-travel.vercel.app/"
     },
     {
       id: 3,
       title: "Veranda Realty",
       category: "Landing Page",
-      image: "./public/properti.png", // Menggunakan file dari folder public
+      image: "/properti.png", // Menggunakan file dari folder public
       link: "https://veranda-reality.vercel.app/"
     },
   ];
